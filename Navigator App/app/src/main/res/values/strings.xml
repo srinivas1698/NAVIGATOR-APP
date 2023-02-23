@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Directory</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="SpiderVerse">SpiderVerse</string>
+    <string name="SpiderVerseInfo">Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.</string>
+    <string name="BabyDriverInfo">Baby, a music-loving orphan also happens to be the prodigiously talented go-to getaway driver for heist mastermind Doc. With the perfect soundtrack picked out for each and every job, Baby ensures Docs violent, bank-robbing cronies - including Buddy, Bats and Darling - get in and out of Dodge before its too late. Hes not in it for the long haul though, hoping to nail one last job before riding off into the sunset with beautiful diner waitress Debora. Easier said than done.</string>
+    <string name="DunkirkInfo">In May 1940, Germany advanced into France, trapping Allied troops on the beaches of Dunkirk. Under air and ground cover from British and French forces, troops were slowly and methodically evacuated from the beach using every serviceable naval and civilian vessel that could be found. At the end of this heroic mission, 330,000 French, British, Belgian and Dutch soldiers were safely evacuated.</string>
+    <string name="JurassicWorldInfo">Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok. Now, its up to a former military man and animal expert (Chris Pratt) to use his special skills to save two young brothers and the rest of the tourists from an all-out, prehistoric assault.</string>
+    <string name="DragonsInfo">Located off the coast of Costa Rica, the Jurassic World luxury resort provides a habitat for an array of genetically engineered dinosaurs, including the vicious and intelligent Indominus rex. When the massive creature escapes, it sets off a chain reaction that causes the other dinos to run amok. Now, its up to a former military man and animal expert (Chris Pratt) to use his special skills to save two young brothers and the rest of the tourists from an all-out, prehistoric assault.</string>
+    <string name="directoryName">Srinivas Chavan \'s Group Directory</string>
+    <string name="tel">tel:1234–37890</string>
+    <string name="selected">selected</string>
+    <string name="information">information</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="BabyDriver">BabyDriver</string>
+    <string name="Dunkirk">Dunkirk</string>
+    <string name="JurassicWorld">Jurassic World</string>
+    <string name="Dragons">Dragons</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="warning">This movie is not interesting, are you sure you want to know about it</string>
+</resources>
